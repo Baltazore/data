@@ -1,6 +1,7 @@
 # Many To Many Relationships
 
 - Previous ← [Many To One Relationships](./4-one-to-many.md)
+- Next → [Async Vs Sync](./6-async-vs-sync.md)
 - ⮐ [Relationships Guide](../index.md)
 
 ---
@@ -221,4 +222,5 @@ export class TrailRunner {
 ---
 
 - Previous ← [Many To One Relationships](./4-one-to-many.md)
+- Next → [Async Vs Sync](./6-async-vs-sync.md)
 - ⮐ [Relationships Guide](../index.md)
